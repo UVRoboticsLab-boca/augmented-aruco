@@ -5,6 +5,8 @@ It includes a Calibration class with two methods, the first one uses a chessboar
 
 It is a generalized version so it should work with any camera resolution.
 
+Right now only displays markers 3d axes.
+
 TODO:
 - Export camera matrix and distortion value on a file.
 - A validation for such file, if it doesn't exist, must run Calibration methods.
